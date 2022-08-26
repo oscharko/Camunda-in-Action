@@ -11,8 +11,8 @@
   <name>hello-world</name>
 
   <properties>
-    <camunda.spring-boot.version>7.14.0</camunda.spring-boot.version>
-    <spring-boot.version>2.2.5.RELEASE</spring-boot.version>
+    <camunda.spring-boot.version>7.18.0-alpha4</camunda.spring-boot.version>
+    <spring-boot.version>2.7.3</spring-boot.version>
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
   </properties>
@@ -61,8 +61,9 @@
    <build>
     <plugins>
       <plugin>
-        <groupId>org.springframework.boot</groupId>
-        <artifactId>spring-boot-maven-plugin</artifactId>
+          <groupId>org.springframework.boot</groupId>
+          <artifactId>spring-boot-maven-plugin</artifactId>
+          <version>2.7.3</version>
         <configuration>
           <layout>ZIP</layout>
           <jvmArguments>
