@@ -5,10 +5,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>udemy.camunda</groupId>
-    <artifactId>hello-world</artifactId>
+    <artifactId>trading-crypto</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <name>hello-world</name>
+    <name>trading-crypto</name>
 
     <properties>
         <camunda.spring-boot.version>7.18.0-alpha4</camunda.spring-boot.version>
