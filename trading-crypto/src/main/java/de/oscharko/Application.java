@@ -5,13 +5,16 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * IntelliJ IDEA 2022.2 (Ultimate Edition)
+ * IntelliJ IDEA 2022.2
  * --------------------
- * Created by oscharko on 27.08.22 - 10:19 😎
+ * ITGAIN Consulting Gesellschaft für IT-Beratung mbH
+ * Check out -> www.itgain-consulting.de
+ * --------------------
+ * Created by oliver.scharkowski on 27.08.22 - 22:31 😎
  * Check out -> www.oscharko.de
  * --------------------
  * Camunda-in-Action
- * Inside the package - udemy.camunda
+ * Inside the package - de.oscharko
  * --------------------
  */
 @SpringBootApplication

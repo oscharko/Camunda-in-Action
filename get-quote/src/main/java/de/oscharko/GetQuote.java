@@ -15,7 +15,19 @@ import javax.ws.rs.core.MediaType;
 import org.camunda.bpm.client.ExternalTaskClient;
 import org.camunda.spin.SpinList;
 import org.camunda.spin.json.SpinJsonNode;
-
+/**
+ * IntelliJ IDEA 2022.2
+ * --------------------
+ * ITGAIN Consulting Gesellschaft für IT-Beratung mbH
+ * Check out -> www.itgain-consulting.de
+ * --------------------
+ * Created by oliver.scharkowski on 27.08.22 - 22:31 😎
+ * Check out -> www.oscharko.de
+ * --------------------
+ * Camunda-in-Action
+ * Inside the package - de.oscharko
+ * --------------------
+ */
 public class GetQuote {
     private final static Logger LOGGER = Logger.getLogger(GetQuote.class.getName());
 
